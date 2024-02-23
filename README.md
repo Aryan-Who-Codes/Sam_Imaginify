@@ -1,11 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+###### Info : This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-# ![logo-text](https://github.com/sohomofficial/imaginify/assets/93909798/0fbe7ca7-676a-46b2-a25a-0aaa7cafff4d)
+# Imaginify 
+![Screenshot 2024-02-23 164429](https://github.com/Aryan-Who-Codes/Sam_Imaginify/assets/115602437/126c3f10-8a84-46bf-953c-6862dfb30e01)
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🫱🏻‍🫲🏻 [Credits](#credits)
+5. 🚀 [Deployment](#deployment)
+
+## <a name="introduction">🤖 Introduction</a>
+
 A Software-as-a-Service app with AI features and payments & credits system built using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
 
-First, run the development server:
-## Features
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- Next.js
+- TypeScript
+- MongoDB
+- Clerk
+- Cloudinary
+- Stripe
+- Shadcn
+- TailwindCSS
+
+## <a name="features">🔋 Features</a>
 
 - **Authentication and Authorization:** Secure user access with registration, login, and route protection.
 
@@ -116,13 +137,14 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-## Credits
+
+## <a name="credits">🫱🏻‍🫲🏻 Credits</a>
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
  - [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin)
  - [Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe](https://youtu.be/Ahwoks_dawU?si=ykCanyhrGzChgT5Y)
 
-## Deploy on Vercel
+## <a name="deployment">🚀 Deployment</a>
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
